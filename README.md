@@ -7,7 +7,10 @@ Detection of Diabetic Retinopathy using Convolutional Neural Network
 	3. Aditya Mahamuni
 	4. Piyush Awachar
 	
-Validation Data and pre-trained models can be downloaded from this drive link -> https://drive.google.com/drive/folders/1ifyTiwfRnaebjnvy2z5egUYbof50PsPj?usp=sharing
+Validation Data can be downloaded from this drive link -> https://drive.google.com/drive/folders/1ifyTiwfRnaebjnvy2z5egUYbof50PsPj?usp=sharing
+
+Pre-trained models can be downloaded from this drive link ->
+https://drive.google.com/drive/folders/1HBHZXuBl55E59TlBh4rB1nzWZTOuFrIn?usp=sharing
 	
 ### Steps to use the CLI - 
 
