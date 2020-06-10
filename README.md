@@ -1,6 +1,7 @@
-###TITLE - Detection of Diabetic Retinopathy using Convolutional Neural Network
+### TITLE - <br>
+Detection of Diabetic Retinopathy using Convolutional Neural Network
 
-###AUTHORS - 
+### AUTHORS - 
 	1. Razat Agarwal
 	2. Noopur Gautam
 	3. Aditya Mahamuni
@@ -8,7 +9,7 @@
 	
 Validation Data can be downloaded from this drive link -> 
 	
-###Steps to use the CLI - 
+### Steps to use the CLI - 
 
 1. Clone the repository from github
 2. Install the dependencies from the requirements.txt document.
@@ -16,10 +17,10 @@ Validation Data can be downloaded from this drive link ->
 4. Open main.py and change the variables according to the working directory on line 137 - 141.
 5. Run main.py with the desired argument.
 
-###Arguments for command line - 
+### Arguments for command line - 
 -h -> To get help for the CLI
 -a, --all -> Run the analysis on all the validation images and print CONFUSION MATRIX and ACCURACY
 -i, --image -> Run the analysis on one image, name to be given as the second argument.
 
-###Example - 
+### Example - 
 python3.6 main.py -i image.png
