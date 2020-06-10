@@ -18,9 +18,9 @@ Validation Data can be downloaded from this drive link ->
 5. Run main.py with the desired argument.
 
 ### Arguments for command line - 
--h -> To get help for the CLI
--a, --all -> Run the analysis on all the validation images and print CONFUSION MATRIX and ACCURACY
--i, --image -> Run the analysis on one image, name to be given as the second argument.
+-h -> To get help for the CLI <br>
+-a, --all -> Run the analysis on all the validation images and print CONFUSION MATRIX and ACCURACY <br>
+-i, --image -> Run the analysis on one image, name to be given as the second argument. <br>
 
 ### Example - 
 python3.6 main.py -i image.png
